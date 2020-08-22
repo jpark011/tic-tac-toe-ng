@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fireship-tutorial-7ad9c": {
+      "hosting": {
+        "my-app": [
+          "fireship-tutorial-7ad9c"
+        ]
+      }
+    }
+  }
+}
